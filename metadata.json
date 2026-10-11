@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse AI",
+  "description": "AI-Powered Student Analytics & Success Platform for academic risk prediction, intelligent insights, targeted faculty interventions, and personalized roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
